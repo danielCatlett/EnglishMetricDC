@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EnglishMetricDC</string>
+    <string name="txtTitle">English to Metric</string>
+    <string-array name="txtUnit">
+        <item>Inches to Centimeters</item>
+        <item>Feet to Meters</item>
+        <item>Miles to Kilometers</item>
+        <item>Pounds to Kilograms</item>
+        <item>Fahrenheit to Celcius</item>
+        <item>Gallons to Liters</item>
+    </string-array>
+    <string name="txtCalc">Calculate</string>
+    <string name="txtSelect">Select Conversion</string>
+    <string name="txtValue">Enter Value</string>
+</resources>
